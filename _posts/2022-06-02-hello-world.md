@@ -8,7 +8,3 @@ tags: [homelab,server]     # TAG names should always be lowercase
 # Hello world
 
 This is the first test for jekyll
-
-```bash
-sudo apt install
-```

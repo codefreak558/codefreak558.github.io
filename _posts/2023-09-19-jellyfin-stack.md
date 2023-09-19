@@ -1,5 +1,5 @@
 ---
-title: Hello Homelab
+title: Jellyfin Docker
 date: 2023-09-19 22:00:00 +0200
 categories: [homelab]
 tags: [homelab,server,jellyfin,sonarr,radarr,docker]     # TAG names should always be lowercase

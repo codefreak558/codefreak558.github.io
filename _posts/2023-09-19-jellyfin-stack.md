@@ -21,7 +21,6 @@ After some searching for a good Jellyfin stack we came across the github repo ma
   * [Laptop Specific Configuration](#laptop-specific-configuration)
 <!-- TOC -->
 
-
 ## Prerequisite's
 1. Docker
 2. Docker-Compose
@@ -57,7 +56,6 @@ cp .env.example .env
 ```
 
 Once this is done fill in the .env file with the details for everything that is needed. Here is the env variables that are used in this project.
-
 
 ## Environment Variables
 

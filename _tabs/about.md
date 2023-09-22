@@ -18,12 +18,12 @@ order: 4
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=codefreak558">
+<!-- <a href="https://komarev.com/ghpvc/?username=codefreak558">
   <img align="right" src="https://komarev.com/ghpvc/?username=codefreak558&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/6bf38a2a-37af-4431-85b2-5a0f68ed4436.svg)](https://wakatime.com/@6bf38a2a-37af-4431-85b2-5a0f68ed4436)
+[![wakatime](https://wakatime.com/badge/user/6bf38a2a-37af-4431-85b2-5a0f68ed4436.svg)](https://wakatime.com/@6bf38a2a-37af-4431-85b2-5a0f68ed4436) -->
 
 <!-- Intro  -->
 <h3 align="center">
